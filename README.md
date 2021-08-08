@@ -1,3 +1,4 @@
 # Olá, Mundo !
- Primeiro Repositório de Git e GitHub
- Alteração  feita diretamente pelo repositóri remoto.
+ Primeiro Repositório de Git e GitHub.
+
+ Alteração  feita diretamente pelo repositório remoto.
